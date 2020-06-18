@@ -1,6 +1,6 @@
 # DISCODE
 ## Interface baseada na aplicação do Discord
-!()[https://github.com/Leandro2585/DisCode/blob/master/src/interface.png]
+![](https://github.com/Leandro2585/DisCode/blob/master/src/interface.png)
 
 In the project directory, you can run:
 
