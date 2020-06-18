@@ -1,6 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+# DISCODE
+## Interface baseada na aplicação do Discord
 
 In the project directory, you can run:
 
